@@ -13,7 +13,14 @@ Assesment Task Submission for Python Django Developer Intern Position at Tradexa
    python distributed_inserts.py
    
 
----
+## Output Screenshots
+
+Below is the script output:
+
+![Terminal Output](./screenshots/Output%20image%2002.jpg)
+![Terminal Output](./screenshots/Output%20image.jpg)
+
+
 
 ## Project Documentation
 
