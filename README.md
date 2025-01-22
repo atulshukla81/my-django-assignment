@@ -17,8 +17,8 @@ Assesment Task Submission for Python Django Developer Intern Position at Tradexa
 
 Below is the script output:
 
-![Terminal Output](./screenshots/Output%20image%2002.jpg)
-![Terminal Output](./screenshots/Output%20image.jpg)
+![Terminal Output](./screenshots/Output_image_01.jpg)
+![Terminal Output](./screenshots/Output_image_02.jpg)
 
 
 
